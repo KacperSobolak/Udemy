@@ -39,6 +39,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Facade", "DesignPatterns\St
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decorator", "DesignPatterns\Structural\Decorator\Decorator.csproj", "{C6A105D9-4130-480F-9C10-4DF225EBE44E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proxy", "DesignPatterns\Structural\Proxy\Proxy.csproj", "{AB6EF775-C011-4046-B77F-D7876DFEC55A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -101,6 +103,10 @@ Global
 		{C6A105D9-4130-480F-9C10-4DF225EBE44E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C6A105D9-4130-480F-9C10-4DF225EBE44E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C6A105D9-4130-480F-9C10-4DF225EBE44E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB6EF775-C011-4046-B77F-D7876DFEC55A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB6EF775-C011-4046-B77F-D7876DFEC55A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB6EF775-C011-4046-B77F-D7876DFEC55A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB6EF775-C011-4046-B77F-D7876DFEC55A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -123,6 +129,7 @@ Global
 		{2800BD96-EB30-4D26-89BF-BC228A3804BE} = {393E4C3D-4824-4E1A-A5E7-E234EB9ECDDA}
 		{31A01504-D021-4104-97D2-B5F90B689176} = {2800BD96-EB30-4D26-89BF-BC228A3804BE}
 		{C6A105D9-4130-480F-9C10-4DF225EBE44E} = {2800BD96-EB30-4D26-89BF-BC228A3804BE}
+		{AB6EF775-C011-4046-B77F-D7876DFEC55A} = {2800BD96-EB30-4D26-89BF-BC228A3804BE}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {16BE42E4-C52C-4552-A441-A59006057C93}
